@@ -5,10 +5,10 @@ The revolution in micro-trading is here – and YOU can now be part of it! 🚀
 We are excited to share the current version of the unCoded Trading Bot with you. With unCoded, you can leverage the market's highest volatility to generate consistent profits through thousands of automated trades every day.
 
 📥 Download the Bot Now:
-The ZIP file is attached to this post for immediate download.
+All necessary files are attached to this repo for immediate download.
 
 ⚙️ How to Get Started:
-1️⃣ Download the bot from the ZIP file in this repo.
+1️⃣ Download the bot from the containing files of this repo.
 2️⃣ Check the instructions:
 
 Use the telegram bot's commands to display step-by-step guides.
